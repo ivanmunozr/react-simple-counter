@@ -4,7 +4,7 @@ import React from "react";
 import rigoImage from "../../img/rigo-baby.jpg";
 
 //create your first component
-export class Home extends React.Component {
+/*export class Home extends React.Component {
 	render() {
 		return (
 			<div className="text-center mt-5">
@@ -24,3 +24,4 @@ export class Home extends React.Component {
 		);
 	}
 }
+*/
